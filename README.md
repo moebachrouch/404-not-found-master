@@ -30,14 +30,14 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot 2](https://raw.githubusercontent.com/moebachrouch/404-not-found-master/master/screenshots/firefox.png)
 
+![screenshot](https://raw.githubusercontent.com/moebachrouch/404-not-found-master/master/screenshots/iOS.png)
 
 
 ### Built With
