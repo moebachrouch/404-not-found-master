@@ -55,5 +55,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- LinkedIn [your-website.com](https://www.linkedin.com/in/moebachrouch/)
-- GitHub [@your-username](https://github.com/moebachrouch)
+- LinkedIn [moebachrouch](https://www.linkedin.com/in/moebachrouch/)
+- GitHub [@moebachrouch](https://github.com/moebachrouch)
