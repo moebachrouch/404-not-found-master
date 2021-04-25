@@ -11,14 +11,10 @@
   color: #333333;
 }
 
-.img-scarecrow {
-  max-width: 100%;
-  min-width: 30%;
+.container {
+  width: 100%;
   height: auto;
-}
-
-.not-found-body {
-  display: inline-flex;
+  display: flex;
 }
 
 h1 {
@@ -29,7 +25,6 @@ h1 {
   line-height: 95px;
   letter-spacing: -0.035em;
 
-  /* Gray 1 */
   color: #333333;
 }
 
@@ -37,14 +32,12 @@ h1 {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 50px; /* Height of the footer */
+  height: 50px;
 
   font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 500;
-  line-height: 17px;
-
-  /* identical to box height */
+  font-size: 15px;
   text-align: center;
 
   color: #bdbdbd;
@@ -54,17 +47,6 @@ a {
   color: inherit;
 }
 
-.no-page-text {
-  font-family: "Space Mono", monospace;
-  font-style: normal;
-  font-weight: normal;
-  line-height: 36px;
-  letter-spacing: -0.035em;
-
-  /* Gray 2 */
-  color: #4f4f4f;
-}
-
 button {
   font-family: "Space Mono", monospace;
   font-style: normal;
@@ -72,7 +54,6 @@ button {
   font-size: 14px;
   line-height: 21px;
 
-  background-color: #4CAF50;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -91,3 +72,27 @@ button {
   /* Gray 1 */
   background: #333333;
 }
+
+.img-scarecrow {
+  max-width: 60%;
+  min-width: 30%;
+  height: auto;
+}
+
+.no-page-text {
+  font-family: "Space Mono", monospace;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+
+  /* Gray 2 */
+  color: #4f4f4f;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+      display: block;
+    }
+  }
+  
